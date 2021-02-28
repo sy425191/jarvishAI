@@ -12,6 +12,14 @@ pip install wikipedia <br>
 pip install pyjokes <br>
 pip intall tkinter <br>
 pip install playsound<br>
+
+## GUI:
+Simple GUI:
+It has very _simple_ and _lightweight design_,click Button 
+
 ![GUI](https://raw.githubusercontent.com/sy425191/jarvishAI/main/523.png) <br>
 
-## MADE with ❤ by _Saurabh yadav_
+# USE :
+qrks
+
+### MADE with ❤ by [Saurabh Yadav](http://saurabh.nettalk.xyz) and hosted on [Github](www.github.com)
